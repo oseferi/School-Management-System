@@ -1,0 +1,168 @@
+D:\Other Docs\School CMS\test\API\Portali\Portali\obj\Debug\Portali.csprojResolveAssemblyReference.cache
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\Portali.dll.config
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\Portali.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\Portali.pdb
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\Microsoft.Web.Infrastructure.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\Newtonsoft.Json.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Net.Http.Formatting.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.Helpers.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.Http.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.Http.WebHost.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.Mvc.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.Razor.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.WebPages.Deployment.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.WebPages.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.WebPages.Razor.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\Newtonsoft.Json.xml
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Net.Http.Formatting.xml
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.Http.xml
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.Http.WebHost.xml
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.Helpers.xml
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.Mvc.xml
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.Razor.xml
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.WebPages.xml
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.WebPages.Deployment.xml
+D:\Other Docs\School CMS\test\API\Portali\Portali\bin\System.Web.WebPages.Razor.xml
+D:\Other Docs\School CMS\test\API\Portali\Portali\obj\Debug\Portali.dll
+D:\Other Docs\School CMS\test\API\Portali\Portali\obj\Debug\Portali.pdb
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\Portali.dll.config
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\Portali.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\Portali.pdb
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\Microsoft.Web.Infrastructure.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\Newtonsoft.Json.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Net.Http.Formatting.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.Helpers.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.Http.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.Http.WebHost.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.Mvc.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.Razor.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.WebPages.Deployment.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.WebPages.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.WebPages.Razor.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\Newtonsoft.Json.xml
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Net.Http.Formatting.xml
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.Http.xml
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.Http.WebHost.xml
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.Helpers.xml
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.Mvc.xml
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.Razor.xml
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.WebPages.xml
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.WebPages.Deployment.xml
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\bin\System.Web.WebPages.Razor.xml
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\obj\Debug\Portali.csprojResolveAssemblyReference.cache
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\obj\Debug\Portali.dll
+D:\FILES\Software\Projekte\School CMS\test\API\Portali\Portali\obj\Debug\Portali.pdb
+D:\FILES\Software\Projekte\Portali\Portali\bin\Portali.dll.config
+D:\FILES\Software\Projekte\Portali\Portali\bin\Portali.dll
+D:\FILES\Software\Projekte\Portali\Portali\bin\Portali.pdb
+D:\FILES\Software\Projekte\Portali\Portali\bin\Microsoft.Web.Infrastructure.dll
+D:\FILES\Software\Projekte\Portali\Portali\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\FILES\Software\Projekte\Portali\Portali\bin\Newtonsoft.Json.dll
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Net.Http.Formatting.dll
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.Helpers.dll
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.Http.dll
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.Http.WebHost.dll
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.Mvc.dll
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.Razor.dll
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.WebPages.Deployment.dll
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.WebPages.dll
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.WebPages.Razor.dll
+D:\FILES\Software\Projekte\Portali\Portali\bin\Newtonsoft.Json.xml
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Net.Http.Formatting.xml
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.Http.xml
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.Http.WebHost.xml
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.Helpers.xml
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.Mvc.xml
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.Razor.xml
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.WebPages.xml
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.WebPages.Deployment.xml
+D:\FILES\Software\Projekte\Portali\Portali\bin\System.Web.WebPages.Razor.xml
+D:\FILES\Software\Projekte\Portali\Portali\obj\Debug\Portali.csprojResolveAssemblyReference.cache
+D:\FILES\Software\Projekte\Portali\Portali\obj\Debug\Portali.dll
+D:\FILES\Software\Projekte\Portali\Portali\obj\Debug\Portali.pdb
+C:\Users\User\Desktop\Portali\Portali\bin\Portali.dll.config
+C:\Users\User\Desktop\Portali\Portali\bin\Portali.dll
+C:\Users\User\Desktop\Portali\Portali\bin\Portali.pdb
+C:\Users\User\Desktop\Portali\Portali\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Portali\Portali\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.Http.xml
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Portali\Portali\obj\Debug\Portali.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Portali\Portali\obj\Debug\Portali.dll
+C:\Users\User\Desktop\Portali\Portali\obj\Debug\Portali.pdb
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\Portali.dll.config
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\Portali.dll
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\Portali.pdb
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.Http.xml
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\dotNet\Portali\Portali\obj\Debug\Portali.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\dotNet\Portali\Portali\obj\Debug\Portali.dll
+C:\Users\User\Desktop\dotNet\Portali\Portali\obj\Debug\Portali.pdb
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.Http.dll
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\dotNet\Portali\Portali\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Portali\Portali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Portali\Portali\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\User\Desktop\Portali\Portali\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Portali\Portali\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.Http.dll
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Portali\Portali\bin\System.Web.WebPages.Razor.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\Portali.dll.config
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\Portali.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\Portali.pdb
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\Microsoft.Web.Infrastructure.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\Newtonsoft.Json.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Net.Http.Formatting.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.Helpers.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.Http.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.Http.WebHost.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.Mvc.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.Razor.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.WebPages.Deployment.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.WebPages.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.WebPages.Razor.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\Newtonsoft.Json.xml
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Net.Http.Formatting.xml
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.Http.xml
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.Http.WebHost.xml
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.Helpers.xml
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.Mvc.xml
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.Razor.xml
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.WebPages.xml
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.WebPages.Deployment.xml
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\bin\System.Web.WebPages.Razor.xml
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\obj\Debug\Portali.csprojResolveAssemblyReference.cache
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\obj\Debug\Portali.dll
+D:\FILES\Software\Projekte\Portali Final\Portalifinal-final\Portali\Portali\obj\Debug\Portali.pdb
